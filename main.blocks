@@ -1,18 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=",q3aGIv[}%*KmJa,ALb@">mySprite</variable><variable type="KIND_SpriteKind" id="g+vMs3T]dY,W~/Q]Gfx{">Player</variable><variable type="KIND_SpriteKind" id="~#?BL;lp}KYx#lXR!uh~">Projectile</variable><variable type="KIND_SpriteKind" id="ADtEG!TvbC0kAN:l8:+j">Food</variable><variable type="KIND_SpriteKind" id="YJJ,_6/%q0sGfxsH}VO+">Enemy</variable></variables><block type="pxt-on-start" id=")Cutn[_+i`s#O{FF_C0H" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="v}oN1f(@zYf,C}]~PM3^"><field name="VAR" id=",q3aGIv[}%*KmJa,ALb@">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="O[ynI///6wmBY/a^Z5U0"><value name="img"><shadow type="screen_image_picker" id="r9w#P9)xH6T~Iu*Nk_5("><field name="img">img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"r9w#P9)xH6T~Iu*Nk_5("}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="E!RO!*x^AwxkiUO3ZHh("><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="controls_repeat_ext" id="=PB4HYT3dy8D)1}zgT)`"><value name="TIMES"><shadow type="math_whole_number" id="M[uHScZ*96aL{TN+kmxF"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="gameSplash" id="vqZ$;(lD=OK.TYL^p?oZ"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="title"><shadow type="text" id=";|%w.#go)/Hx32,A:y?1"><field name="TEXT">Hello World</field></shadow></value><value name="subtitle"><shadow type="text" id="3P~KTLF917h8vzXV#As@"><field name="TEXT"></field></shadow></value></block></statement></block></next></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=")Cutn[_+i`s#O{FF_C0H" x="0" y="0"></block></xml>
