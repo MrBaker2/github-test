@@ -16,3 +16,6 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+for (let index = 0; index < 4; index++) {
+    game.splash("Hello World")
+}
